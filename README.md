@@ -27,15 +27,15 @@ When an object is detected by the IR sensor, the LED lights up.
   Observe that the LED connected to pin 5 lights up when the IR sensor detects an object.
 
 *Usage
-  This project can be used as a simple demonstration of how to interface an IR sensor module with an Arduino for object detection, with the LED providing a visual indicator.#
+  This project can be used as a simple demonstration of how to interface an IR sensor module with an Arduino for object detection, with the LED providing a visual indicator.
 
 *Contributing
   If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
 *Contact
-  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or whatsapp us at +91 9599063468/ 8920562814
+  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or WhatsApp us at +91 9599063468/ 8920562814
 
-By following these instructions, you should be able to successfully control an 8-bit LED module with your Arduino board. Happy coding!
+By following these instructions, you should be able to successfully control an LED using an IR Sensor with your Arduino board. Happy coding!
 
 
 
